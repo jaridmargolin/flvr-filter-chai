@@ -1,14 +1,22 @@
-# flvr-filter-chai
-
-[![Build Status](https://travis-ci.org/jaridmargolin/flvr-filter-chai.svg?branch=master)](https://travis-ci.org/jaridmargolin/flvr-filter-chai) [![Coverage Status](https://coveralls.io/repos/github/jaridmargolin/flvr-filter-chai/badge.svg?branch=master)](https://coveralls.io/github/jaridmargolin/flvr-filter-chai?branch=master) [![NPM flvr-filter-chai package](https://img.shields.io/npm/v/flvr-filter-chai.svg)](https://npmjs.org/package/flvr)
-
-> Remove chai noise from flvr stack traces..
-
+<h1 align="center">flvr-filter-chai</h1>
+<div align="center">
+  <p>Remove chai noise from flvr stack traces.</p>
+  <div>
+  <a href="https://travis-ci.org/jaridmargolin/flvr-filter-chai"><img src="https://travis-ci.org/jaridmargolin/flvr-filter-chai.svg?branch=master" alt="Build Status"></a>
+  <a href="https://coveralls.io/github/jaridmargolin/flvr-filter-chai?branch=master"><img src="https://coveralls.io/repos/github/jaridmargolin/flvr-filter-chai/badge.svg?branch=master" alt="Coverage Status"></a>
+  <a href="http://standardjs.com/"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  </div>
+  <div>
+  <a href="https://npmjs.org/package/flvr-filter-chai"><img src="https://img.shields.io/npm/v/flvr-filter-chai.svg" alt="NPM flvr-filter-chai package"></a>
+  <a href="https://david-dm.org/jaridmargolin/flvr-filter-chai"><img src="https://david-dm.org/jaridmargolin/flvr-filter-chai.svg" alt="Dependency Status"></a>
+  <a href="https://david-dm.org/jaridmargolin/flvr-filter-chai#info=devDependencies"><img src="https://david-dm.org/jaridmargolin/flvr-filter-chai/dev-status.svg" alt="devDependency Status"></a>
+  </div>
+</div>
+<br>
 
 ### Example Usage
 
 Just install in your package and flvr will take care of the rest.
-
 
 ```
 npm install flvr-filter-chai --save-dev
