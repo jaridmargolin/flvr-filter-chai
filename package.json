@@ -2,7 +2,7 @@
   "name": "flvr-filter-chai",
   "description": "Remove chai noise from flvr stack traces.",
   "author": "Jarid Margolin <jaridmargolin@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/jaridmargolin/flvr-filter-chai",
   "license": "MIT",
   "repository": {
